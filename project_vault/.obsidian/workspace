@@ -1,16 +1,17 @@
 {
   "main": {
-    "id": "60fef41f6259be23",
+    "id": "febcdbd5ca6a738d",
     "type": "split",
     "children": [
       {
-        "id": "7d6cd837d17280ff",
+        "id": "7da4640af1ae462f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TOOLS/Workflows/Quarto Websites.md",
+            "file": "PEOPLE/Tim Scheibe/Tim Scheibe.md",
             "mode": "source",
+            "backlinks": true,
             "source": false
           }
         }
@@ -19,15 +20,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8022c3670aae828e",
+    "id": "c4d8c030a300286c",
     "type": "split",
     "children": [
       {
-        "id": "f9e824eae08bc9f5",
+        "id": "189a04b2053b8d34",
         "type": "tabs",
         "children": [
           {
-            "id": "ded4f73da43d0f32",
+            "id": "26d5e0aa5891343b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +36,7 @@
             }
           },
           {
-            "id": "7ba3a265dbdf875e",
+            "id": "d4bfb2e24ff54035",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +51,7 @@
             }
           },
           {
-            "id": "f6cc84239dc46c94",
+            "id": "08d2ec53348aed4d",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -61,63 +62,133 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 262.5
   },
   "right": {
-    "id": "c48aee084eb872bb",
+    "id": "43e729f2cd5f4c53",
     "type": "split",
     "children": [
       {
-        "id": "913c63596040f781",
+        "id": "e0d7f8eb3f22932d",
         "type": "tabs",
         "children": [
           {
-            "id": "e51b68f7412bc576",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "e9a761491a66b488",
+            "id": "918f7e84ca5a6eb2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOOLS/Workflows/Quarto Websites.md",
+                "file": "PEOPLE/Tim Scheibe/Tim Scheibe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "0d22ef25ea55a586",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3f2703ba2f804d9c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PEOPLE/Tim Scheibe/Tim Scheibe.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2a5403af752ef51c",
+            "id": "e1983ea851c1a8c3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOOLS/Workflows/Quarto Websites.md"
+                "file": "PEOPLE/Tim Scheibe/Tim Scheibe.md"
               }
+            }
+          },
+          {
+            "id": "0792491ed57425ab",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "1eddb15646d3d767",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "99878d31acf7e27c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d047d1cba27f085",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TASKS/TASKS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "fd413e7b8b97d839",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 312.5
   },
-  "active": "7d6cd837d17280ff",
+  "active": "7da4640af1ae462f",
   "lastOpenFiles": [
-    "PEOPLE/PEOPLE.md",
-    "TOOLS/Workflows/Updating R Without lossing your packages.md",
-    "TOOLS/Workflows/Quarto Websites.md",
-    "TOOLS/Workflows/Running Python in R Studio.md"
+    "PEOPLE/Jessica Neff/Jessica Neff.md",
+    "PLATFORMS/Org_platforms/ICON/ICON Regular Meetings.md",
+    "PLATFORMS/Org_platforms/ICON/ICON Rebranding.md",
+    "PLATFORMS/Org_platforms/ICON/ICON.md",
+    "PEOPLE/Tim Scheibe/Tim Scheibe.md",
+    "PLATFORMS/Org_platforms/ICON/Nandita Basu Talk.md",
+    "PLATFORMS/Org_platforms/ICON/Advisory Board Meeting/Advisory Board Meeting.md",
+    "PLATFORMS/Org_platforms/ICON/ICON-ModEx.md",
+    "PRODUCTS/AGU_DataComm/AGU_Abstracts-SY019.md",
+    "PRODUCTS/AGU_DataComm/AGU_Abstracts-EP008.md"
   ]
 }
